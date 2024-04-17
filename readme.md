@@ -1,17 +1,13 @@
 
 # Tugas 1
 
-| Nama | Ridwan Mubarok |
-| NIP | 230401010053 |
-
-| Detail      | Description |
-| ----------- | ----------- |
-| Nama      | Ridwan Mubarok       |
-| NIP   | 230401010053        |
+| Detail        | Deskripsi |
+| -----------   | ----------- |
+| Nama          | Ridwan Mubarok       |
+| NIP           | 230401010053        |
 | Mata Kuliah   | Struktur data Struktur Data dan Algoritma        |
-| Dosen   | Struktur data Struktur Data dan Algoritma        |
-| Kelas   | IT-201   |
-
+| Dosen         | Struktur data Struktur Data dan Algoritma        |
+| Kelas         | IT-201   |
 
 # Table of Contents
 
